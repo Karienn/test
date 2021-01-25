@@ -13,5 +13,6 @@ public class Week2Example
         list[0] = s1; //saved the object in an array
         System.out.println(s1); //prints the object address
         System.out.println("Name: " + s1.getName() + "\nAge: " + s1.getAge());
+        System.out.println("Jimpy is HEREEE");
     }
 }
