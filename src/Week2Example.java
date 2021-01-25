@@ -16,5 +16,6 @@ public class Week2Example
         System.out.println("Jimpy is HEREEE");
         System.out.println("HELLOOOOOOOOO");
         System.out.println("HELOOOOOOOO BACK!");
+        System.out.println("Install JDK 14");
     }
 }
